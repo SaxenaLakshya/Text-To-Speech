@@ -10,8 +10,9 @@ Install the required dependencies:
   pip install pyttsx3
 ### Usage
 #### Call the speakingmodule(text) function, passing the desired text as an argument:
-  text = input("Enter the text: ")
-  speakingmodule(text)
+   text = input("Enter the text: ")
+speakingmodule(text)
+
 The script will convert the text to speech and read it out loud.
 ### Contribution
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
